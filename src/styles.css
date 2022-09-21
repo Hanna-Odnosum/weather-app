@@ -1,0 +1,45 @@
+.form-center,
+button {
+  justify-content: center;
+  display: inline-block;
+  display: flex;
+}
+
+h1,
+h2 {
+  margin: 0 0 0 50px;
+}
+
+ul {
+  margin: 0 0 50px;
+  padding: 0;
+}
+li {
+  color: #113f67;
+  font-size: 30px;
+  margin: 0 0 0 50px;
+  list-style: none;
+}
+
+.float-left {
+  font-size: 30px;
+  margin: 0 0 0 50px;
+}
+.container {
+  margin-left: 100px;
+  font-family: "Pacifico", cursive;
+  background-image: url("http://apimondia2013.org.ua/template/img/header-home-page-bg.jpg");
+  max-width: 50%;
+  margin: 0 auto;
+  padding: 10px 10px;
+  border-radius: 20px;
+  color: #113f67;
+}
+.parameters {
+  position: relative;
+  left: 450px;
+  bottom: 45px;
+}
+.row {
+  text-align: center;
+}
